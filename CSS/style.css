@@ -1,0 +1,25 @@
+
+.body {
+    background-color: #CBEDD5;
+}
+
+
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td, table {
+    height: 50px;
+    width: 80;
+    border: 1px solid;
+}
+
+
+.table_child{
+    border: 1px solid;
+    width: 80%;
+}
+
+
